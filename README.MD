@@ -1,6 +1,5 @@
 <h3>A simple and user-friendly weather app that provides real-time weather information for any city using OpenWeatherMap API (or your chosen API). Built with HTML, CSS, and JavaScript.
 </h3>
-<br>
 <h4>Features</h4>
  Get real-time weather data by city name
  <br>
